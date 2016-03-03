@@ -17,7 +17,7 @@ public class SUckMe
     {
         // initialise instance variables
         x = 0;
-        System.out.println("haha suck me taetae");
+	System.out.println("git is for chumps");
     }
 
     /**
