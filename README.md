@@ -1,3 +1,2 @@
 # michaelma-taehwankim
-Michael sucks major lollipops
--pops
+Michael likes lolis
